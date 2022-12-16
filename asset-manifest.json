@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/CSCI-E39-A3/static/css/main.56105761.css",
-    "main.js": "/CSCI-E39-A3/static/js/main.47f4056e.js",
+    "main.js": "/CSCI-E39-A3/static/js/main.8c60479b.js",
     "index.html": "/CSCI-E39-A3/index.html",
     "main.56105761.css.map": "/CSCI-E39-A3/static/css/main.56105761.css.map",
-    "main.47f4056e.js.map": "/CSCI-E39-A3/static/js/main.47f4056e.js.map"
+    "main.8c60479b.js.map": "/CSCI-E39-A3/static/js/main.8c60479b.js.map"
   },
   "entrypoints": [
     "static/css/main.56105761.css",
-    "static/js/main.47f4056e.js"
+    "static/js/main.8c60479b.js"
   ]
 }
